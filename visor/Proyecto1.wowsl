@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>Proyecto1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>squares</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/pure/</ImageTemplate>
+            <ImageTemplateName>Pure</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/rogelioyair/Desktop/Visor/indexwow.html</PublishFileName>
+            <PublishIndex>indexwow.html</PublishIndex>
+            <PublishPath>C:/Users/rogelioyair/Desktop/Visor</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>true</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>54</SlideshowDelay>
+            <SlideshowDuration>36</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>pure</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/12968735_998567613569190_1449282098_n.jpg</url>
+                <title>Contaminacion </title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/12969191_998568573569094_1969103369_n.jpg</url>
+                <title>Basura</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/12987923_998566323569319_973162165_n.jpg</url>
+                <title>Contaminación Visual en espacios naturales</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/12992218_998567616902523_1853434212_n.jpg</url>
+                <title>Basura en el Ecosistema</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/12992305_998566266902658_796597515_n.jpg</url>
+                <title>Basura</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/13020199_998567626902522_1534481965_n.jpg</url>
+                <title>Basura en la cancha</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/13020203_998566283569323_99231285_n.jpg</url>
+                <title>Dejando nuestra huella</title>
+            </Image>
+            <Image>
+                <url>E:/DAM/2DO PARCIAL/app3/imagenes/Fotos/13020529_998568566902428_2054929636_n.jpg</url>
+                <title>Basura</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
